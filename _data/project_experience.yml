@@ -8,14 +8,16 @@ main:
       - Conducted real-world field tests on mini e-Transporter, full-size e-Transporter, and methanol fuel cell vehicle
       - Achieved stable autonomous operation in a live construction site environment (CSCEC).
       - Executed extensive scenario testing in CARLA and Chang’an University Automobile Test Site, covering obstacle detection, car-following, pullover, merging, intersections, roundabouts, and traffic signal/sign recognition. 
+      - Successfully validated the autonomous driving system in the Cainiao Smart Gateway under a multi-layer logistics scenario, achieving robust localization, planning, and continuous autonomous navigation across multiple waypoints over extended operation periods.
       - Deployed the system on a dual-NVIDIA Orin Domain Control Unit (DCU)
 
   - time: 12/2025~present
     project_name: Autonomous Delivery in Multi-layer Parking Building
     key_points: 
       - Developed motion planning strategies for autonomous driving in multi-layer parking structures, addressing elevation changes and constrained spaces. 
-      - Designed and validated planning logic in simulation, focusing on lane-level navigation and collision avoidance. 
-      - Evaluated system performance under complex parking scenarios, including narrow passages and multi-level transitions. 
+      - Designed and validated planning algorithms in simulation, focusing on lane-level navigation, collision avoidance, and robust route generation. 
+      - Conducted extensive field validation at the Cainiao Smart Gateway, successfully demonstrating reliable localization, motion planning, and long-duration autonomous operation across multiple delivery points in a multi-layer parking environment. 
+      - Evaluated and optimized system performance under challenging real-world scenarios, including narrow passages, ramp transitions, multi-level navigation, and prolonged autonomous operation. 
 
   - time: 02/2025~present
     project_name: Smart Co-Pilot - A Proactive Driving Assistance and Safety System Leveraging Multimodal Data and LLM 
