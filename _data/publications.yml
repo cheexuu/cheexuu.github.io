@@ -1,22 +1,49 @@
 main:
+  journal:
+    - title: Online Detection and Location of Eccentricity Fault in PMSG with External Magnetic Sensing
+      authors: <strong>Q. Xu</strong>, S. Yuan, X. Liu, P. W. T. Pong, and C. Liu
+      conference: IEEE Transactions on Industrial Electronics, 2022
+      pdf: https://ieeexplore.ieee.org/abstract/document/9739971
+    - title: Online Detecting Magnet Defect Fault in PMSG with Magnetic Sensing
+      authors: <strong>Q. Xu</strong>, X. Liu, W. Miao, P. W. T. Pong, and C. Liu
+      conference: IEEE Transactions on Transportation Electrification, 2021
+      pdf: https://ieeexplore.ieee.org/abstract/document/9405599
+    - title: Contactless Current Sensing with Bandwidth Enhancement for High-Frequency Power Converters
+      authors: <strong>Q. Xu</strong>, P. W. T. Pong, K. T. Chau, and C. Liu
+      conference: IEEE Journal of Emerging and Selected Topics in Power Electronics, 2024
+      pdf: https://ieeexplore.ieee.org/abstract/document/10570188
+    - title: A Portable Power Quality Monitoring Approach in Microgrid with Electromagnetic Sensing and Computational Intelligence
+      authors: <strong>Q. Xu</strong>, M. Wen, P. W. Pong, and C. Liu
+      conference:  IEEE Transactions on Magnetics, 2021
+      pdf: https://ieeexplore.ieee.org/abstract/document/9157953
+    - title: Magnetic-Field-Sensing-Based Approach for Current Reconstruction, Sag Detection, and Inclination Detection for Overhead Transmission System
+      authors: <strong>Q. Xu</strong>, X. Liu, K. Zhu, P. W. Pong, and C. Liu
+      conference: IEEE Transactions on Magnetics, 2019
+      pdf: https://ieeexplore.ieee.org/abstract/document/8694963
+    - title: DC arc-fault detection based on empirical mode decomposition of arc signatures and support vector machine
+      authors: W. Miao, <strong>Q. Xu</strong>, K. H. Lam, and H. Vincent Poor
+      conference: IEEE Sensors Journal, 2020
+      pdf: https://ieeexplore.ieee.org/abstract/document/9274520
+    - title: Inter-turn short-circuit fault detection approach for permanent magnet synchronous machines through stray magnetic field sensing
+      authors: X. Liu, W. Miao, <strong>Q. Xu</strong>, L. Cao, C. Liu, and P. W. T. Pong
+      conference:  IEEE Sensors Journal, 2019
+      pdf: https://ieeexplore.ieee.org/abstract/document/8718612
+  
+  patent:
+    - title: Anomaly Detection in Energy Systems
+      authors: P. W. Pong, K. Zhu, and <strong>Q. Xu</strong>
+      conference: WO 2021/048596 A1
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+
+  ## original example
+  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  #   conference_short: CVPR
+  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   notes: Oral Presentation
+  #   image: ./assets/img/teaser_example.png

@@ -1,0 +1,23 @@
+main:
+  - title: Talks
+    key_points: 
+      - '<strong><em>The Hong Kong Polytechnic University</em></strong>: An invited speaker in the course "EEE522 Autonomous Vehicles" for delivering the seminar "Modular Approach for Autonomous Driving Vehicles". (Apr. 2025, Apr. 2026)'
+
+  - title: Teaching
+    key_points: 
+      - '<strong><em>The University of Hong Kong</em></strong>: tutor for the course ELEC2243 Introduction to electricity and magnetism'
+      - '<strong><em>The University of Hong Kong</em></strong>: tutor for the course ELEC4543 Fuzzy systems and neural networks'
+
+
+
+  ## original example
+  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  #   conference_short: CVPR
+  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   notes: Oral Presentation
+  #   image: ./assets/img/teaser_example.png

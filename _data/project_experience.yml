@@ -1,0 +1,84 @@
+main:
+  - time: 04/2024~present
+    project_name: Methanol Fuel Cell Autonomous Delivery Vehicle 
+    key_points: 
+      - Designed and implemented a full-stack autonomous driving system for a methanol-fueled delivery vehicle targeting long-distance logistics scenarios.
+      - Built CARLA-based simulation framework, including custom vehicle models and complex traffic scenarios for end-to-end AD pipeline validation.
+      - "Integrated and validated core AD modules: sensor fusion, perception, localization, motion planning, and vehicle control." 
+      - Conducted real-world field tests on mini e-Transporter, full-size e-Transporter, and methanol fuel cell vehicle
+      - Achieved stable autonomous operation in a live construction site environment (CSCEC).
+      - Executed extensive scenario testing in CARLA and Chang’an University Automobile Test Site, covering obstacle detection, car-following, pullover, merging, intersections, roundabouts, and traffic signal/sign recognition. 
+      - Deployed the system on a dual-NVIDIA Orin Domain Control Unit (DCU)
+
+  - time: 12/2025~present
+    project_name: Autonomous Delivery in Multi-layer Parking Building
+    key_points: 
+      - Developed motion planning strategies for autonomous driving in multi-layer parking structures, addressing elevation changes and constrained spaces. 
+      - Designed and validated planning logic in simulation, focusing on lane-level navigation and collision avoidance. 
+      - Evaluated system performance under complex parking scenarios, including narrow passages and multi-level transitions. 
+
+  - time: 02/2025~present
+    project_name: Smart Co-Pilot - A Proactive Driving Assistance and Safety System Leveraging Multimodal Data and LLM 
+    key_points: 
+      - Responsible for end-to-end ideation, system architecture design, and technical feasibility analysis. 
+      - Proposed a proactive driving assistance and safety system addressing long-tail scenarios in autonomous driving using multimodal data and LLM-based reasoning. 
+      - Designed the overall framework integrating multi-sensor data fusion, scene understanding, risk reasoning, and explainable decision support. 
+      - Proposal submitted for seed project funding and approved by ITC.
+  
+  - time: 01/2025~02/2025
+    project_name: 2D Lidar-Based Object Tracking System for Electric Vehicle 
+    key_points: 
+      - Developed a real-time object tracking and following system for an electric vehicle using low-cost 2D Lidar, enabling cost-effective autonomous navigation in constrained environments.  
+      - Designed and implemented algorithms for dynamic target tracking, obstacle avoidance, path planning, and velocity control, allowing the vehicle to follow user-selected moving object. 
+      - Achieved stable and responsive performance with minimal hardware, demonstrating the feasibility of lightweight autonomous functions on low-cost platforms.  
+  
+  - time: 02/2024~03/2024
+    project_name: Autodocking for Wireless Charging 
+    key_points: 
+      - Developed an autonomous docking system enabling electric vehicles to locate and align with a wireless charging station on demand. 
+      - Utilized camera-based perception to achieve high-precision localization of the charging pad in real-world conditions. 
+      - Implemented smooth motion control algorithms to ensure precise alignment and reliable docking, followed by automatic activation of the wireless charging process. 
+
+  - time: 12/2023~01/2024
+    project_name: Smart Auto Cruise Transport Robot based on Vision Navigation
+    key_points: 
+      - Developed an autonomous goods transport robot capable of navigating across multiple locations with minimal human intervention. 
+      - Designed a vision-based localization system using AR tag recognition, integrated with topological mapping and shortest-path planning algorithms for efficient route execution. 
+      - Achieved robust and precise navigation performance in indoor environments, with strong resistance to floor light reflections. 
+
+  - time: 06/2023~11/2023 
+    project_name: Follow-me Function Development in Electric Vehicle
+    key_points: 
+      - Developed a vision and UWB-based follow-me system for electric vehicles, enabling autonomous following of a human target in dynamic environments. 
+      - "Integrated dual tracking mechanisms: AR tag detection combined with KCF (Kernelized Correlation Filter) tracking for stable and robust visual tracking. Ultra-Wideband (UWB) positioning for accurate range-based tracking in occluded or low-visibility conditions."
+      - Implemented gesture-based control interface, allowing users to activate follow-me mode and control vehicle movement (forward/backward, lateral movement, rotation) via hand gestures. 
+      - Added buzzer feedback system for operational cues and low-battery warnings, enhancing user awareness and safety during operation.
+
+  - time: 04/2023~08/2023
+    project_name: DSPACE Hardware-in-loop (HIL) Simulation for Autonomous Vehicle Testing 
+    key_points: 
+      - Designed and implemented a hardware-in-the-loop (HIL) simulation testbed using DSPACE to validate autonomous driving functions and motor control algorithms in electric vehicles. 
+      - Combined real-world automotive hardware components—including steering wheel, brake, accelerator pedals, and engine—with virtual vehicle dynamics and environments simulated via DSPACE software. 
+      - Facilitated rapid testing and iteration of auto-driving features and motor control strategies under various virtual road conditions, bridging the gap between software and physical deployment.
+
+  - time: 11/2022~03/2023
+    project_name: Lidar-camera Fusion Detection in Electric Vehicle 
+    key_points: 
+      - Developed an object detection system that fuses data from Lidar and camera sensors, enabling precise object classification with accurate distance estimation. 
+      - Implemented sensor calibration and synchronization, enabling real-time data fusion and improving detection reliability in complex environments. 
+      - Enhanced situational awareness for the electric vehicle, supporting downstream modules such as planning, obstacle avoidance, and human-machine interface visualization.
+  
+
+
+
+  ## original example
+  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  #   conference_short: CVPR
+  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   notes: Oral Presentation
+  #   image: ./assets/img/teaser_example.png

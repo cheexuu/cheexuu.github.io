@@ -1,0 +1,21 @@
+main:
+  - title: '<strong style="color:#39c;"><em>MIET</em></strong>: Member of the Institution of Engineering and Technology (Issued Apr 2024)'
+
+  - title: '<strong style="color:#39c;"><em>PMP</em></strong>: Project Management Professional® (Issued Nov 2025)'
+
+  - title: '<strong style="color:#39c;"><em>AWS Certified Machine Learning - Specialty</em></strong> (Issued May 2024)'
+
+  - title: '<strong style="color:#39c;"><em>Silver medal </em></strong>in 48th Internation Exhibition of Inventions (Geneva) (Issued Apr 2023)'
+
+
+  ## original example
+  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  #   conference_short: CVPR
+  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   notes: Oral Presentation
+  #   image: ./assets/img/teaser_example.png
